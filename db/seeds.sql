@@ -1,0 +1,10 @@
+INSERT INTO food (food_name, devoured) VALUES ('Curry Bowl', false);
+INSERT INTO food (food_name, devoured) VALUES ('Veggie Stir-Fry', false);
+INSERT INTO food (food_name, devoured) VALUES ('Pumpkin Soup', false);
+INSERT INTO food (food_name, devoured) VALUES ('Mongolian Cauliflower BBQ', false);
+INSERT INTO food (food_name, devoured) VALUES ('Pad Thai', false);
+INSERT INTO food (food_name, devoured) VALUES ('Chinese Leek Bao Dumplings', false);
+INSERT INTO food (food_name, devoured) VALUES ('Black Bean Cajun Burger', false);
+INSERT INTO food (food_name, devoured) VALUES ('Cardamom Loaded Fries', false);
+INSERT INTO food (food_name, devoured) VALUES ('Tofu Korma', false);
+INSERT INTO food (food_name, devoured) VALUES ('Fried Plaintains', false);
